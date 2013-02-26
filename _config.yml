@@ -1,5 +1,4 @@
 safe: true
-base-url: /blog
 lsi: false
 pygments: true
 markdown: rdiscount
